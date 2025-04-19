@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm @yzhacker0
+
+## About Me
+Android enthusiast focused on modding, app development, and web solutions. I enjoy working on projects that challenge conventional limitations and create useful tools for everyday problems.
+
+## 🛠️ Skills
+- **Android Development:** App creation, modding, and customization
+- **Web Development:** Frontend and backend solutions
+- **Languages:** 
+  - Python
+  - JavaScript
+  - HTML/CSS
+  - C++
+  - Java
+  - Lua
+
+## 🔭 Current Focus
+Building innovative Android mods and developing responsive web applications.
+
+## 💻 Projects
+*Check out my pinned repositories below for my latest work!*
+
+## 📫 Connect With Me
+- You can send a friend request on Discord (YZHacker0)
+- Feel free to reach out for collaborations or questions!
+- Open to contributing to open-source projects related to Android development
+
+---
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yzhacker0.yzhacker0)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yzhacker0&show_icons=true&theme=radical)
 
 <!--
-**YZHacker0/YZHacker0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Want to customize this README further? Check out:
+- https://github.com/anuraghazra/github-readme-stats
+- https://shields.io/
 -->
