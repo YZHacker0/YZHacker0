@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @yzhacker0
+# 👋 Hi, I'm @YZHacker
 
 ## About Me
 Android enthusiast focused on modding, app development, and web solutions. I enjoy working on projects that challenge conventional limitations and create useful tools for everyday problems.
@@ -21,7 +21,7 @@ Building innovative Android mods and developing responsive web applications.
 *Check out my pinned repositories below for my latest work!*
 
 ## 📫 Connect With Me
-- You can send a friend request on Discord (YZHacker0)
+- You can send a friend request on Discord (YZHacker)
 - Feel free to reach out for collaborations or questions!
 - Open to contributing to open-source projects related to Android development
 
